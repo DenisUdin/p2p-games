@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755797628|59656993416';
+const CACHE_VERSION = '1755798136|60164789928';
 /** @type {string} */
 const CACHE_PREFIX = 'p2p-games-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
